@@ -123,3 +123,65 @@
 1533126898 source:/home/tomaszu/Pulpit/dinosaur/dinosaur/src/player.cpp
 	"player.hpp"
 
+1542111691 source:/home/tomaszu/Pulpit/dinosaur/src/animation.cpp
+	"animation.hpp"
+	<iostream>
+
+1542111691 /home/tomaszu/Pulpit/dinosaur/src/animation.hpp
+	<SFML/Graphics.hpp>
+	<math.h>
+
+1542111691 source:/home/tomaszu/Pulpit/dinosaur/src/button.cpp
+	"button.hpp"
+
+1542111691 /home/tomaszu/Pulpit/dinosaur/src/button.hpp
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1542111691 source:/home/tomaszu/Pulpit/dinosaur/src/coin.cpp
+	"coin.hpp"
+
+1542111691 /home/tomaszu/Pulpit/dinosaur/src/coin.hpp
+	"entity.hpp"
+
+1542111691 /home/tomaszu/Pulpit/dinosaur/src/entity.hpp
+	<SFML/Graphics.hpp>
+	<SFML/Audio.hpp>
+	<iostream>
+	"animation.hpp"
+
+1542111691 source:/home/tomaszu/Pulpit/dinosaur/src/entity.cpp
+	"entity.hpp"
+
+1542111691 source:/home/tomaszu/Pulpit/dinosaur/src/game.cpp
+	"game.hpp"
+
+1542111691 /home/tomaszu/Pulpit/dinosaur/src/game.hpp
+	<SFML/Graphics.hpp>
+	<SFML/Audio.hpp>
+	<vector>
+	<string>
+	<ctime>
+	<cstdlib>
+	<fstream>
+	"player.hpp"
+	"obstacle.hpp"
+	"coin.hpp"
+	"button.hpp"
+
+1542111691 /home/tomaszu/Pulpit/dinosaur/src/player.hpp
+	<string>
+	"entity.hpp"
+
+1542111691 /home/tomaszu/Pulpit/dinosaur/src/obstacle.hpp
+	"entity.hpp"
+
+1542111691 source:/home/tomaszu/Pulpit/dinosaur/src/main.cpp
+	"game.hpp"
+
+1542111691 source:/home/tomaszu/Pulpit/dinosaur/src/obstacle.cpp
+	"obstacle.hpp"
+
+1542111691 source:/home/tomaszu/Pulpit/dinosaur/src/player.cpp
+	"player.hpp"
+
