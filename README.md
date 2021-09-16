@@ -1,4 +1,4 @@
-Simple game of running dinosaur.  
+Just a running dinosaur.  
 Made by me and my friend as a project for uni classes.  
 Steering: Mouse and arrows. Use space to jump, down arrow to fall faster.  
 ![image missing](other/4.png)  
